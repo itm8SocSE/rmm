@@ -18,5 +18,97 @@ basupsrvc.exe,BeAnywhere
 basupsrvcupdate.exe,BeAnywhere
 basuptshelper.exe,BeAnywhere
 bomgar-scc.exe,Bomgar
-CagService.exe,CentraStage (Now Datto)
+CagService.exe,CentraStage
 ctiserv.exe,Centurion
+remote_host.exe,Chrome Remote Desktop
+cloudflared.exe,CloudFlare Tunnel
+connectwisechat-customer.exe,ConnectWise Control
+connectwisecontrol.client.exe,ConnectWise Control
+itsmagent.exe,Comodo RMM
+rviewer.exe,Comodo RMM
+crossloopservice.exe,CrossLoop
+pcivideo.exe,CrossTec Remote Control
+supporttool.exe,CrossTec Remote Control
+dntus*.exe,Dameware-mini Remote Control Protocol
+dwrcs.exe,Dameware-mini Remote Control Protocol
+domotz_bash.exe,Domotz
+echoserver*.exe,Echoware
+echoware.dll,Echoware
+ehorus standalone.exe,eHorus
+remoteconsole.exe,EMCO Remote Console
+accessserver.exe,Ericom AccessNow
+ericomconnnectconfigurationtool.exe,Ericom Connect
+era.exe,ESET Remote Administrator
+ezhelp*.exe,ESET Remote Administrator
+eratool.exe,ESET Remote Administrator
+ezhelpclient.exe,ezHelp
+ezhelpclientmanager.exe,ezHelp
+fastclient.exe,FastViewer
+fastmaster.exe,FastViewer
+fixmeitclient.exe,FixMe.it
+fleetdeck_agent_svc.exe,FleetDeck
+gp3.exe,GatherPlace-desktop sharing
+gp4.exe,GatherPlace-desktop sharing
+gp5.exe,GatherPlace-desktop sharing
+getscreen.exe,GetScreen
+g2a*.exe,GoToAssist
+gotoassist.exe,GoToAssist
+gotohttp.exe,GotoHTTP
+g2file*.exe,GoToMyPC
+g2quick.exe,GoToMyPC
+g2svc.exe,GoToMyPC
+g2tray.exe,GoToMyPC
+goverrmc.exe,Goverlan
+govsrv*.exe,Goverlan
+guacd.exe,Guacamole
+helpbeam*.exe,HelpBeam
+iit.exe,Im InTouch
+intouch.exe,Im InTouch
+hsloader.exe,Instant Housecall
+ihcserver.exe,Instant Housecall
+instanthousecall.exe,Instant Housecall
+iadmin.exe,IntelliAdmin Remote Control
+intelliadmin.exe,IntelliAdmin Remote Control
+iperius.exe,Iperius Remote
+iperiusremote.exe,Iperius Remote
+ITSMAgent.exe,Itarian
+ItsmRsp.exe,Itarian
+ITSMService.exe,Itarian
+RDesktop.exe,Itarian
+RHost.exe,Itarian
+RmmService.exe,Itarian
+islalwaysonmonitor.exe,ISL Light
+isllight.exe,ISL Light
+isllightservice.exe,ISL Light
+jumpclient.exe,Jump Desktop
+jumpdesktop.exe,Jump Desktop
+jumpservice.exe,Jump Desktop
+agentmon.exe,Kaseya Unigma
+ltsvc.exe,ConnectWise Automate LabTech RMM
+ltsvcmon.exe,ConnectWise Automate LabTech RMM
+lttray.exe,ConnectWise Automate LabTech RMM
+issuser.exe,Ivanti LANDesk
+landeskagentbootstrap.exe,Ivanti LANDesk
+ldinv32.exe,Ivanti LANDesk
+ldsensors.exe,Ivanti LANDesk
+laplink.exe,Laplink Everywhere
+laplinkeverywhere.exe,Laplink Everywhere
+llrcservice.exe,Laplink Everywhere
+serverproxyservice.exe,Laplink Everywhere
+laplink.exe,Laplink Gold
+tsircusr.exe,Laplink Gold
+romfusclient.exe,LiteManager
+romserver.exe,LiteManager
+romviewer.exe,LiteManager
+lmiguardiansvc.exe,LogMeIn
+lmiignition.exe,LogMeIn
+logmein.exe,LogMeIn
+logmeinsystray.exe,LogMeIn
+support-logmeinrescue*.exe,LogMeIn rescue
+support-logmeinrescue.exe,LogMeIn rescue
+lmi_rescue.exe,LogMeIn rescue
+mesh*.exe,MeshCentral
+mikogo.exe,Mikogo
+mikogolauncher.exe,Mikogo
+mikogo-service.exe,Mikogo
+mikogo-starter.exe,Mikogo
