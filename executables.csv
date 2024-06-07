@@ -1,3 +1,22 @@
-filename;software
-rpcgrab.exe;Access Remote PC
-rpcsetup.exe;Access Remote PC
+Filename,Software
+rpcgrab.exe,Access Remote PC
+rpcsetup.exe,Access Remote PC
+action1_agent.exe,Action1
+aeroadmin.exe,AeroAdmin
+alitask.exe,AliWangWang-remote-control
+alpemix.exe,Alpemix
+AMMYY_Admin.exe,AmmyyAdmin
+anydesk.exe,AnyDesk
+apc_host.exe,Anyplace Control
+ateraagent.exe,Atera RMM
+syncrosetup.exe,Atera RMM
+auvik.agent.exe,Auvik
+auvik.engine.exe,Auvik
+beamyourscreen.exe,BeamYourScreen
+beamyourscreen-host.exe,BeamYourScreen
+basupsrvc.exe,BeAnywhere
+basupsrvcupdate.exe,BeAnywhere
+basuptshelper.exe,BeAnywhere
+bomgar-scc.exe,Bomgar
+CagService.exe,CentraStage (Now Datto)
+ctiserv.exe,Centurion
