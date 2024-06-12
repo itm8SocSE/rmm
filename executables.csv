@@ -112,3 +112,127 @@ mikogo.exe,Mikogo
 mikogolauncher.exe,Mikogo
 mikogo-service.exe,Mikogo
 mikogo-starter.exe,Mikogo
+mionet.exe,MioNet WD Anywhere Access
+mionetmanager.exe,MioNet WD Anywhere Access
+myivomanager.exe,MyIVO
+myivomgr.exe,MyIVO
+nhostsvc.exe,Netop Remote Control Impero Connect
+nhstw32.exe,Netop Remote Control Impero Connect
+nldrw32.exe,Netop Remote Control Impero Connect
+rmserverconsolemediator.exe,Netop Remote Control Impero Connect
+client32.exe,NetSupport Manager
+pcictlui.exe,NetSupport Manager
+neturo.exe,Neturo
+ntrntservice.exe,Neturo
+netviewer*.exe,Netviewer
+netviewer.exe,Netviewer
+ngrok.exe,ngrok
+ninjarmmagent.exe,NinjaRMM
+nomachine*.exe,NoMachine
+nxd.exe,NoMachine
+nateon*.exe,NoteOn-desktop sharing
+nateon.exe,NoteOn-desktop sharing
+nateonmain.exe,NoteOn-desktop sharing
+ocsinventory.exe,OCS inventory
+ocsservice.exe,OCS inventory
+prl_deskctl_agent.exe,Parallels Access
+prl_deskctl_wizard.exe,Parallels Access
+prl_pm_service.exe,Parallels Access
+awhost32.exe,pcAnywhere
+pcaquickconnect.exe,pcAnywhere
+winaw32.exe,pcAnywhere
+mwcliun.exe,Pcnow
+pcnmgr.exe,Pcnow
+webexpcnow.exe,Pcnow
+pcvisit.exe,Pcvisit
+pcvisit_client.exe,Pcvisit
+pcvisit-easysupport.exe,Pcvisit
+pocketcontroller.exe,Pocket Controller
+pocketcloudservice.exe,Pocket Controller
+wysebrowser.exe,Pocket Controller
+qq.exe,QQ IM-remote assistance
+qqpcmgr.exe,QQ IM-remote assistance
+konea.exe,Quest KACE Agent
+quickassist.exe,Quick Assist
+radmin.exe,Radmin
+tdp2tcp.exe,rdp2tcp
+rdp2tcp.py,rdp2tcp
+remobo.exe,Remobo
+remobo_client.exe,Remobo
+remobo_tracker.exe,Remobo
+rfusclient.exe,Remote Manipulator System
+rutserv.exe,Remote Manipulator System Remote Utilities
+rutview.exe,Remote Utilities
+rcengmgru.exe,RemoteCall
+rcmgrsvc.exe,RemoteCall
+remotesupportplayeru.exe,RemoteCall
+rxstartsupport.exe,RemoteCall
+remotepass-access.exe,RemotePass
+rpaccess.exe,RemotePass
+rpwhostscr.exe,RemotePass
+remotepcservice.exe,RemotePC
+rpcsuite.exe,RemotePC
+remoteview.exe,RemoteView
+rv.exe,RemoteView
+rvagent.exe,RemoteView
+rvagtray.exe,RemoteView
+wisshell*.exe,RES Automation Manager
+wmc.exe,RES Automation Manager
+wmc_deployer.exe,RES Automation Manager
+wmcsvc.exe,RES Automation Manager
+royalts.exe,Royal TS
+rd.exe,RuDesktop
+rudesktop*.exe,RuDesktop
+rustdesk.exe,RustDesk
+screenconnect*.exe,ConnectWise ScreenConnect
+screenconnect.windowsclient.exe,ConnectWise ScreenConnect
+seetrolcenter.exe,Seetrol
+seetrolclient.exe,Seetrol
+seetrolmyservice.exe,Seetrol
+seetrolremote.exe,Seetrol
+seetrolsetting.exe,Seetrol
+showmypc*.exe,ShowMyPC
+showmypc.exe,ShowMyPC
+simplehelpcustomer.exe,SimpleHelp
+simpleservice.exe,SimpleHelp
+windowslauncher.exe,SimpleHelp
+remote access.exe,SimpleHelp
+simplegatewayservice.exe,SimpleHelp
+clientmrinit.exe,Sophos Remote Management System
+mgntsvc.exe,Sophos Remote Management System
+routernt.exe,Sophos Remote Management System
+sragent.exe,Splashtop Remote
+srmanager.exe,Splashtop Remote
+srserver.exe,Splashtop Remote
+srservice.exe,Splashtop Remote
+supremo.exe,Supremo
+supremohelper.exe,Supremo
+supremoservice.exe,Supremo
+supremosystem.exe,Supremo
+tacticalrmm.exe,Tactical RMM
+teamviewer*.exe,TeamViewer
+teamviewer_service.exe,TeamViewer
+teamviewerqs.exe,TeamViewer
+tv_w32.exe,TeamViewer
+tv_w64.exe,TeamViewer
+pstlaunch.exe,TeleDesktop
+ptdskclient.exe,TeleDesktop
+ptdskhost.exe,TeleDesktop
+todesk.exe,ToDesk
+pcstarter.exe,TurboMeeting
+turbomeeting.exe,TurboMeeting
+turbomeetingstarter.exe,TurboMeeting
+ultraviewer.exe,Ultraviewer
+ultraviewer_desktop.exe,Ultraviewer
+ultraviewer_service.exe,Ultraviewer
+vncserver.exe,VNC
+vncserverui.exe,VNC
+vncviewer.exe,VNC
+winvnc*.exe,VNC
+webrdp.exe,WebRDP
+weezo.exe,Weezo
+weezohttpd.exe,Weezo
+xeox-agent_x64.exe,XEOX
+za_connect.exe,Zoho Assist
+zaservice.exe,Zoho Assist
+zohotray.exe,Zoho Assist
