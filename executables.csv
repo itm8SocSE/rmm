@@ -1,11 +1,11 @@
-Filename,Software
+executable,software
 rpcgrab.exe,Access Remote PC
 rpcsetup.exe,Access Remote PC
 action1_agent.exe,Action1
 aeroadmin.exe,AeroAdmin
 alitask.exe,AliWangWang-remote-control
 alpemix.exe,Alpemix
-AMMYY_Admin.exe,AmmyyAdmin
+ammyy_admin.exe,AmmyyAdmin
 anydesk.exe,AnyDesk
 apc_host.exe,Anyplace Control
 ateraagent.exe,Atera RMM
@@ -18,7 +18,7 @@ basupsrvc.exe,BeAnywhere
 basupsrvcupdate.exe,BeAnywhere
 basuptshelper.exe,BeAnywhere
 bomgar-scc.exe,Bomgar
-CagService.exe,CentraStage
+cagservice.exe,CentraStage
 ctiserv.exe,Centurion
 remote_host.exe,Chrome Remote Desktop
 cloudflared.exe,CloudFlare Tunnel
@@ -71,12 +71,12 @@ iadmin.exe,IntelliAdmin Remote Control
 intelliadmin.exe,IntelliAdmin Remote Control
 iperius.exe,Iperius Remote
 iperiusremote.exe,Iperius Remote
-ITSMAgent.exe,Itarian
+itsmagent.exe,Itarian
 ItsmRsp.exe,Itarian
-ITSMService.exe,Itarian
-RDesktop.exe,Itarian
-RHost.exe,Itarian
-RmmService.exe,Itarian
+itsmservice.exe,Itarian
+rsdesktop.exe,Itarian
+rhost.exe,Itarian
+rmmservice.exe,Itarian
 islalwaysonmonitor.exe,ISL Light
 isllight.exe,ISL Light
 isllightservice.exe,ISL Light
