@@ -1,2 +1,2 @@
 # Remote Monitoring & Management
-Finding Remote Monitoring & Management tools during intrusions is often difficult and distigushing between malign and benign activites is even harder as they fall under the "living off the land" methods. However, in most cases it is at least possible to find common RMM tools using custom detections based on various properties such as exectutable file name and publisher along with domain names in network traffic.
+Finding Remote Monitoring & Management tools is fairly easy but distigushing between malign and benign activites is quite hard. Creating as baseline with exlusions will however allow for the detection of new activities.
