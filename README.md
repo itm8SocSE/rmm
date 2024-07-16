@@ -6,3 +6,12 @@ This file contains known executable file names for RMM tools and can be used in 
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
+>
+> let RMMs = (externaldata(Software:string,Executable:string)
+> [@"https://raw.githubusercontent.com/itm8SocSE/rmm/main/executables.csv"]
+> with(format="csv",ignoreFirstRecord=true))
+> | project Executable;
+> DeviceProcessEvents
+> | where Timestamp > ago(1h)
+> | where ActionType == "ProcessCreated"
+> | where FileName in~ (RMMs)
