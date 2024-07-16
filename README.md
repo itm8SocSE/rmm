@@ -1,1 +1,2 @@
 # Remote Monitoring & Management
+Using Remote Monitoring & Management tools during intrusions is often difficult to find and indeed distigush from bening activites as it falls in the category of "living off the land". However, it is at least possible to in most cases find common RMM tools using custom detections based on various properties such as exectutable file name and publisher along with domain names in network traffic.
