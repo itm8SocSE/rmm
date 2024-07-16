@@ -1,239 +1,237 @@
-executable,software
-rpcgrab.exe,Access Remote PC
-rpcsetup.exe,Access Remote PC
-action1_agent.exe,Action1
-aeroadmin.exe,AeroAdmin
-alitask.exe,AliWangWang-remote-control
-alpemix.exe,Alpemix
-ammyy_admin.exe,AmmyyAdmin
-anydesk.exe,AnyDesk
-apc_host.exe,Anyplace Control
-ateraagent.exe,Atera RMM
-syncrosetup.exe,Atera RMM
-auvik.agent.exe,Auvik
-auvik.engine.exe,Auvik
-beamyourscreen.exe,BeamYourScreen
-beamyourscreen-host.exe,BeamYourScreen
-basupsrvc.exe,BeAnywhere
-basupsrvcupdate.exe,BeAnywhere
-basuptshelper.exe,BeAnywhere
-bomgar-scc.exe,Bomgar
-cagservice.exe,CentraStage
-ctiserv.exe,Centurion
-remote_host.exe,Chrome Remote Desktop
-cloudflared.exe,CloudFlare Tunnel
-connectwisechat-customer.exe,ConnectWise Control
-connectwisecontrol.client.exe,ConnectWise Control
-itsmagent.exe,Comodo RMM
-rviewer.exe,Comodo RMM
-crossloopservice.exe,CrossLoop
-pcivideo.exe,CrossTec Remote Control
-supporttool.exe,CrossTec Remote Control
-dntus*.exe,Dameware-mini Remote Control Protocol
-dwrcs.exe,Dameware-mini Remote Control Protocol
-domotz_bash.exe,Domotz
-echoserver*.exe,Echoware
-echoware.dll,Echoware
-ehorus standalone.exe,eHorus
-remoteconsole.exe,EMCO Remote Console
-accessserver.exe,Ericom AccessNow
-ericomconnnectconfigurationtool.exe,Ericom Connect
-era.exe,ESET Remote Administrator
-ezhelp*.exe,ESET Remote Administrator
-eratool.exe,ESET Remote Administrator
-ezhelpclient.exe,ezHelp
-ezhelpclientmanager.exe,ezHelp
-fastclient.exe,FastViewer
-fastmaster.exe,FastViewer
-fixmeitclient.exe,FixMe.it
-fleetdeck_agent_svc.exe,FleetDeck
-gp3.exe,GatherPlace-desktop sharing
-gp4.exe,GatherPlace-desktop sharing
-gp5.exe,GatherPlace-desktop sharing
-getscreen.exe,GetScreen
-g2a*.exe,GoToAssist
-gotoassist.exe,GoToAssist
-gotohttp.exe,GotoHTTP
-g2file*.exe,GoToMyPC
-g2quick.exe,GoToMyPC
-g2svc.exe,GoToMyPC
-g2tray.exe,GoToMyPC
-goverrmc.exe,Goverlan
-govsrv*.exe,Goverlan
-guacd.exe,Guacamole
-helpbeam*.exe,HelpBeam
-iit.exe,Im InTouch
-intouch.exe,Im InTouch
-hsloader.exe,Instant Housecall
-ihcserver.exe,Instant Housecall
-instanthousecall.exe,Instant Housecall
-iadmin.exe,IntelliAdmin Remote Control
-intelliadmin.exe,IntelliAdmin Remote Control
-iperius.exe,Iperius Remote
-iperiusremote.exe,Iperius Remote
-itsmagent.exe,Itarian
-ItsmRsp.exe,Itarian
-itsmservice.exe,Itarian
-rsdesktop.exe,Itarian
-rhost.exe,Itarian
-rmmservice.exe,Itarian
-islalwaysonmonitor.exe,ISL Light
-isllight.exe,ISL Light
-isllightservice.exe,ISL Light
-jumpclient.exe,Jump Desktop
-jumpdesktop.exe,Jump Desktop
-jumpservice.exe,Jump Desktop
-agentmon.exe,Kaseya Unigma
-ltsvc.exe,ConnectWise Automate LabTech RMM
-ltsvcmon.exe,ConnectWise Automate LabTech RMM
-lttray.exe,ConnectWise Automate LabTech RMM
-issuser.exe,Ivanti LANDesk
-landeskagentbootstrap.exe,Ivanti LANDesk
-ldinv32.exe,Ivanti LANDesk
-ldsensors.exe,Ivanti LANDesk
-laplink.exe,Laplink Everywhere
-laplinkeverywhere.exe,Laplink Everywhere
-llrcservice.exe,Laplink Everywhere
-serverproxyservice.exe,Laplink Everywhere
-laplink.exe,Laplink Gold
-tsircusr.exe,Laplink Gold
-romfusclient.exe,LiteManager
-romserver.exe,LiteManager
-romviewer.exe,LiteManager
-lmiguardiansvc.exe,LogMeIn
-lmiignition.exe,LogMeIn
-logmein.exe,LogMeIn
-logmeinsystray.exe,LogMeIn
-support-logmeinrescue*.exe,LogMeIn rescue
-support-logmeinrescue.exe,LogMeIn rescue
-lmi_rescue.exe,LogMeIn rescue
-mesh*.exe,MeshCentral
-mikogo.exe,Mikogo
-mikogolauncher.exe,Mikogo
-mikogo-service.exe,Mikogo
-mikogo-starter.exe,Mikogo
-mionet.exe,MioNet WD Anywhere Access
-mionetmanager.exe,MioNet WD Anywhere Access
-myivomanager.exe,MyIVO
-myivomgr.exe,MyIVO
-nhostsvc.exe,Netop Remote Control Impero Connect
-nhstw32.exe,Netop Remote Control Impero Connect
-nldrw32.exe,Netop Remote Control Impero Connect
-rmserverconsolemediator.exe,Netop Remote Control Impero Connect
-client32.exe,NetSupport Manager
-pcictlui.exe,NetSupport Manager
-neturo.exe,Neturo
-ntrntservice.exe,Neturo
-netviewer*.exe,Netviewer
-netviewer.exe,Netviewer
-ngrok.exe,ngrok
-ninjarmmagent.exe,NinjaRMM
-nomachine*.exe,NoMachine
-nxd.exe,NoMachine
-nateon*.exe,NoteOn-desktop sharing
-nateon.exe,NoteOn-desktop sharing
-nateonmain.exe,NoteOn-desktop sharing
-ocsinventory.exe,OCS inventory
-ocsservice.exe,OCS inventory
-prl_deskctl_agent.exe,Parallels Access
-prl_deskctl_wizard.exe,Parallels Access
-prl_pm_service.exe,Parallels Access
-awhost32.exe,pcAnywhere
-pcaquickconnect.exe,pcAnywhere
-winaw32.exe,pcAnywhere
-mwcliun.exe,Pcnow
-pcnmgr.exe,Pcnow
-webexpcnow.exe,Pcnow
-pcvisit.exe,Pcvisit
-pcvisit_client.exe,Pcvisit
-pcvisit-easysupport.exe,Pcvisit
-pocketcontroller.exe,Pocket Controller
-pocketcloudservice.exe,Pocket Controller
-wysebrowser.exe,Pocket Controller
-qq.exe,QQ IM-remote assistance
-qqpcmgr.exe,QQ IM-remote assistance
-konea.exe,Quest KACE Agent
-quickassist.exe,Quick Assist
-radmin.exe,Radmin
-tdp2tcp.exe,rdp2tcp
-rdp2tcp.py,rdp2tcp
-remobo.exe,Remobo
-remobo_client.exe,Remobo
-remobo_tracker.exe,Remobo
-rfusclient.exe,Remote Manipulator System
-rutserv.exe,Remote Manipulator System Remote Utilities
-rutview.exe,Remote Utilities
-rcengmgru.exe,RemoteCall
-rcmgrsvc.exe,RemoteCall
-remotesupportplayeru.exe,RemoteCall
-rxstartsupport.exe,RemoteCall
-remotepass-access.exe,RemotePass
-rpaccess.exe,RemotePass
-rpwhostscr.exe,RemotePass
-remotepcservice.exe,RemotePC
-rpcsuite.exe,RemotePC
-remoteview.exe,RemoteView
-rv.exe,RemoteView
-rvagent.exe,RemoteView
-rvagtray.exe,RemoteView
-wisshell*.exe,RES Automation Manager
-wmc.exe,RES Automation Manager
-wmc_deployer.exe,RES Automation Manager
-wmcsvc.exe,RES Automation Manager
-royalts.exe,Royal TS
-rd.exe,RuDesktop
-rudesktop*.exe,RuDesktop
-rustdesk.exe,RustDesk
-screenconnect*.exe,ConnectWise ScreenConnect
-screenconnect.windowsclient.exe,ConnectWise ScreenConnect
-seetrolcenter.exe,Seetrol
-seetrolclient.exe,Seetrol
-seetrolmyservice.exe,Seetrol
-seetrolremote.exe,Seetrol
-seetrolsetting.exe,Seetrol
-showmypc*.exe,ShowMyPC
-showmypc.exe,ShowMyPC
-simplehelpcustomer.exe,SimpleHelp
-simpleservice.exe,SimpleHelp
-windowslauncher.exe,SimpleHelp
-remote access.exe,SimpleHelp
-simplegatewayservice.exe,SimpleHelp
-clientmrinit.exe,Sophos Remote Management System
-mgntsvc.exe,Sophos Remote Management System
-routernt.exe,Sophos Remote Management System
-sragent.exe,Splashtop Remote
-srmanager.exe,Splashtop Remote
-srserver.exe,Splashtop Remote
-srservice.exe,Splashtop Remote
-supremo.exe,Supremo
-supremohelper.exe,Supremo
-supremoservice.exe,Supremo
-supremosystem.exe,Supremo
-tacticalrmm.exe,Tactical RMM
-teamviewer*.exe,TeamViewer
-teamviewer_service.exe,TeamViewer
-teamviewerqs.exe,TeamViewer
-tv_w32.exe,TeamViewer
-tv_w64.exe,TeamViewer
-pstlaunch.exe,TeleDesktop
-ptdskclient.exe,TeleDesktop
-ptdskhost.exe,TeleDesktop
-todesk.exe,ToDesk
-pcstarter.exe,TurboMeeting
-turbomeeting.exe,TurboMeeting
-turbomeetingstarter.exe,TurboMeeting
-ultraviewer.exe,Ultraviewer
-ultraviewer_desktop.exe,Ultraviewer
-ultraviewer_service.exe,Ultraviewer
-vncserver.exe,VNC
-vncserverui.exe,VNC
-vncviewer.exe,VNC
-winvnc*.exe,VNC
-webrdp.exe,WebRDP
-weezo.exe,Weezo
-weezohttpd.exe,Weezo
-xeox-agent_x64.exe,XEOX
-za_connect.exe,Zoho Assist
-zaservice.exe,Zoho Assist
-zohotray.exe,Zoho Assist
-join.exe,Zoho Assist
+Software,Filename
+Access Remote PC,rpcgrab.exe
+Access Remote PC,rpcsetup.exe
+Action1,action1_agent.exe
+AeroAdmin,aeroadmin.exe
+AliWangWang,alitask.exe
+Alpemix,alpemix.exe
+AmmyyAdmin,ammyy_admin.exe
+AnyDesk,anydesk.exe
+Anyplace Control,apc_host.exe
+Atera RMM,ateraagent.exe
+Atera RMM,syncrosetup.exe
+Auvik,auvik.agent.exe
+Auvik,auvik.engine.exe
+BeamYourScreen,beamyourscreen.exe
+BeamYourScreen,beamyourscreen-host.exe
+BeAnywhere,basupsrvc.exe
+BeAnywhere,basupsrvcupdate.exe
+BeAnywherebasuptshelper.exe
+Bomgar,bomgar-scc.exe
+CentraStage,cagservice.exe
+Centurion,ctiserv.exe
+Chrome Remote Desktop,remote_host.exe
+CloudFlare Tunnel,cloudflared.exe
+ConnectWise Control,connectwisechat-customer.exe
+ConnectWise Control,connectwisecontrol.client.exe
+Comodo RMM,itsmagent.exe
+Comodo RMM,rviewer.exe
+ConnectWise Automate LabTech,ltsvc.exe
+ConnectWise Automate LabTech,ltsvcmon.exe
+ConnectWise Automate LabTech,lttray.exe
+ConnectWise ScreenConnect,screenconnect.exe
+ConnectWise ScreenConnect,screenconnect.windowsclient.exe
+CrossLoop,crossloopservice.exe
+CrossTec Remote Control,pcivideo.exe
+CrossTec Remote Control,supporttool.exe
+Dameware,dntus.exe
+Dameware,dwrcs.exe
+Domotz,domotz_bash.exe
+Echoware,echoserver.exe
+Echoware,echoware.dll
+eHorus,ehorus standalone.exe
+EMCO Remote Console,remoteconsole.exe
+Ericom AccessNow,accessserver.exe
+Ericom Connect,ericomconnnectconfigurationtool.exe
+ESET Remote Administrator,era.exe
+ESET Remote Administrator,ezhelp.exe
+ESET Remote Administrator,eratool.exe
+ezHelp,ezhelpclient.exe
+ezHelp,ezhelpclientmanager.exe
+FastViewer,fastclient.exe
+FastViewer,fastmaster.exe
+FixMe.it,fixmeitclient.exe
+FleetDeck,fleetdeck_agent_svc.exe
+GatherPlace Remote Customer Support,gp3.exe
+GatherPlace Remote Customer Support,gp4.exe
+GatherPlace Remote Customer Support,gp5.exe
+GetScreen,getscreen.exe
+GoToAssist,g2a.exe
+GoToAssist,gotoassist.exe
+GotoHTTP,gotohttp.exe
+GoToMyPC,g2file.exe
+GoToMyPC,g2quick.exe
+GoToMyPC,g2svc.exe
+GoToMyPC,g2tray.exe
+Goverlan,goverrmc.exe
+Goverlan,govsrv.exe
+Guacamole,guacd.exe
+HelpBeam,helpbeam.exe
+Im InTouch,iit.exe
+Im InTouch,intouch.exe
+Instant Housecall,hsloader.exe
+Instant Housecall,ihcserver.exe
+Instant Housecall,instanthousecall.exe
+IntelliAdmin Remote Control,iadmin.exe
+IntelliAdmin Remote Control,intelliadmin.exe
+Iperius Remote,iperius.exe
+Iperius Remote,iperiusremote.exe
+Itarian,itsmagent.exe
+Itarian,ItsmRsp.exe
+Itarian,itsmservice.exe
+Itarian,rsdesktop.exe
+Itarian,rhost.exe
+Itarian,rmmservice.exe
+ISL Light,islalwaysonmonitor.exe
+ISL Light,isllight.exe
+ISL Light,isllightservice.exe
+Jump Desktop,jumpclient.exe
+Jump Desktop,jumpdesktop.exe
+Jump Desktop,jumpservice.exe
+Kaseya Unigma,agentmon.exe
+Ivanti LANDesk,issuser.exe
+Ivanti LANDesk,landeskagentbootstrap.exe
+Ivanti LANDesk,ldinv32.exe
+Ivanti LANDesk,ldsensors.exe
+Laplink Everywhere,laplink.exe
+Laplink Everywhere,laplinkeverywhere.exe
+Laplink Everywhere,llrcservice.exe
+Laplink Everywhere,serverproxyservice.exe
+Laplink Gold,laplink.exe
+Laplink Gold,tsircusr.exe
+LiteManager,romfusclient.exe
+LiteManager,romserver.exe
+LiteManager,romviewer.exe
+LogMeIn,lmiguardiansvc.exe
+LogMeIn,lmiignition.exe
+LogMeIn,logmein.exe
+LogMeIn,logmeinsystray.exe
+LogMeIn Rescue,support-logmeinrescue.exe
+LogMeIn Rescue,lmi_rescue.exe
+MeshCentral,mesh.exe
+Mikogo,mikogo.exe
+Mikogo,mikogolauncher.exe
+Mikogo,mikogo-service.exe
+Mikogo,mikogo-starter.exe
+MioNet WD Anywhere Access,mionet.exe
+MioNet WD Anywhere Access,mionetmanager.exe
+MyIVO,myivomanager.exe
+MyIVO,myivomgr.exe
+NateOn-desktop sharing,nateon*.exe
+NateOn-desktop sharing,nateon.exe
+NateOn-desktop sharing,nateonmain.exe
+Netop Remote Control Impero Connect,nhostsvc.exe
+Netop Remote Control Impero Connect,nhstw32.exe
+Netop Remote Control Impero Connect,nldrw32.exe
+Netop Remote Control Impero Connect,rmserverconsolemediator.exe
+NetSupport Manager,client32.exe
+NetSupport Manager,pcictlui.exe
+Neturo,neturo.exe
+Neturo,ntrntservice.exe
+Netviewer,netviewer.exe
+ngrok,ngrok.exe
+NinjaRMM,ninjarmmagent.exe
+NoMachine,nomachine.exe
+NoMachine,nxd.exe
+OCS inventory,ocsinventory.exe
+OCS inventory,ocsservice.exe
+Parallels Access,prl_deskctl_agent.exe
+Parallels Access,prl_deskctl_wizard.exe
+Parallels Access,prl_pm_service.exe
+pcAnywhere,awhost32.exe
+pcAnywhere,pcaquickconnect.exe
+pcAnywhere,winaw32.exe
+Pcnow,mwcliun.exe
+Pcnow,pcnmgr.exe
+Pcnow,webexpcnow.exe
+Pcvisit,pcvisit.exe
+Pcvisit,pcvisit_client.exe
+Pcvisit,pcvisit-easysupport.exe
+Pocket Controller,pocketcontroller.exe
+Pocket Controller,pocketcloudservice.exe
+Pocket Controller,wysebrowser.exe
+QQ IM-remote assistance,qq.exe
+QQ IM-remote assistance,qqpcmgr.exe
+Quest KACE Agent,konea.exe
+Quick Assist,quickassist.exe
+Radmin,radmin.exe
+rdp2tcp,tdp2tcp.exe
+rdp2tcp,rdp2tcp.py
+Remobo,remobo.exe
+Remobo,remobo_client.exe
+Remobo,remobo_tracker.exe
+Remote Manipulator System,rfusclient.exe
+Remote Manipulator System,rutserv.exe
+Remote Utilities,rutview.exe
+RemoteCall,rcengmgru.exe
+RemoteCall,rcmgrsvc.exe
+RemoteCall,remotesupportplayeru.exe
+RemoteCall,rxstartsupport.exe
+RemotePass,remotepass-access.exe
+RemotePass,rpaccess.exe
+RemotePass,rpwhostscr.exe
+RemotePC,remotepcservice.exe
+RemotePC,rpcsuite.exe
+RemoteView,remoteview.exe
+RemoteView,rv.exe
+RemoteView,rvagent.exe
+RemoteView,rvagtray.exe
+RES Automation Manager,wisshell.exe
+RES Automation Manager,wmc.exe
+RES Automation Manager,wmc_deployer.exe
+RES Automation Manager,wmcsvc.exe
+Royal TS,royalts.exe
+RuDesktop,rd.exe
+RuDesktop,rudesktop.exe
+RustDesk,rustdesk.exe
+Seetrol,seetrolcenter.exe
+Seetrol,seetrolclient.exe
+Seetrol,seetrolmyservice.exe
+Seetrol,seetrolremote.exe
+Seetrol,seetrolsetting.exe
+ShowMyPC,showmypc.exe
+SimpleHelp,simplehelpcustomer.exe
+SimpleHelp,simpleservice.exe
+SimpleHelp,windowslauncher.exe
+SimpleHelp,remote access.exe
+SimpleHelp,simplegatewayservice.exe
+Sophos Remote Management System,clientmrinit.exe
+Sophos Remote Management System,mgntsvc.exe
+Sophos Remote Management System,routernt.exe
+Splashtop Remote,sragent.exe
+Splashtop Remote,srmanager.exe
+Splashtop Remote,srserver.exe
+Splashtop Remote,srservice.exe
+Supremo,supremo.exe
+Supremo,supremohelper.exe
+Supremo,supremoservice.exe
+Supremo,supremosystem.exe
+Tactical RMM,tacticalrmm.exe
+TeamViewer,teamviewer.exe
+TeamViewer,teamviewer_service.exe
+TeamViewer,teamviewer_desktop.exe
+TeamViewer,teamviewerqs.exe
+TeamViewer,tv_w32.exe
+TeamViewer,tv_w64.exe
+TeleDesktop,pstlaunch.exe
+TeleDesktop,ptdskclient.exe
+TeleDesktop,ptdskhost.exe
+ToDesk,todesk.exe
+TurboMeeting,pcstarter.exe
+TurboMeeting,turbomeeting.exe
+TurboMeeting,turbomeetingstarter.exe
+Ultraviewer,ultraviewer.exe
+Ultraviewer,ultraviewer_desktop.exe
+Ultraviewer,ultraviewer_service.exe
+VNC,vncserver.exe
+VNC,vncserverui.exe
+VNC,vncviewer.exe
+VNC,winvnc.exe
+WebRDP,webrdp.exe
+Weezo,weezo.exe
+Weezo,weezohttpd.exe
+XEOX,xeox-agent_x64.exe
+Zoho Assist,za_connect.exe
+Zoho Assist,zaservice.exe
+Zoho Assist,zohotray.exe
+Zoho Assist,join.exe
