@@ -4,6 +4,7 @@ Finding Remote Monitoring & Management tools is fairly easy but distigushing bet
 ## Executables
 This file contains known executable file names for RMM tools and can be used in EDR custom detections. Currently, 236 file names have been identified.
 
+The following can be used in Microsoft Defender to find created RMM processes.
 ```
 let RMMs = (externaldata(Software:string,Executable:string)
 [@"https://raw.githubusercontent.com/itm8SocSE/rmm/main/executables.csv"]
@@ -12,5 +13,16 @@ with(format="csv",ignoreFirstRecord=true))
 DeviceProcessEvents
 | where Timestamp > ago(1h)
 | where ActionType == "ProcessCreated"
+| where FileName in~ (RMMs)
+```
+And the following can be used in Microsoft Defender find RMM file events.
+```
+let RMMs = (externaldata(Software:string,Executable:string)
+[@"https://raw.githubusercontent.com/itm8SocSE/rmm/main/executables.csv"]
+with(format="csv",ignoreFirstRecord=true))
+| project Executable;
+DeviceFileEvents
+| where Timestamp > ago(1d)
+| where ActionType == "FileCreated"
 | where FileName in~ (RMMs)
 ```
