@@ -1,2 +1,5 @@
 # Remote Monitoring & Management
-Finding Remote Monitoring & Management tools is fairly easy but distigushing between malign and benign activites is quite hard. Creating as baseline with exlusions will however allow for the detection of new activities.
+Finding Remote Monitoring & Management tools is fairly easy but distigushing between malign and benign activites is quite hard. Creating a baseline with exlusions will however allow for the detection of new activities.
+
+## Executables
+This file contains known executable file names for RMM tools and can be used in an EDR custom detection.
