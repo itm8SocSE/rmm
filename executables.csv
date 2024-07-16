@@ -16,7 +16,7 @@ BeamYourScreen,beamyourscreen.exe
 BeamYourScreen,beamyourscreen-host.exe
 BeAnywhere,basupsrvc.exe
 BeAnywhere,basupsrvcupdate.exe
-BeAnywherebasuptshelper.exe
+BeAnywhere,basuptshelper.exe
 Bomgar,bomgar-scc.exe
 CentraStage,cagservice.exe
 Centurion,ctiserv.exe
