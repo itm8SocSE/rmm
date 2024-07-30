@@ -13,7 +13,7 @@ with(format="csv",ignoreFirstRecord=true))
 DeviceProcessEvents
 | where Timestamp > ago(1h)
 | where ActionType == "ProcessCreated"
-| where FileName in~ (RMMs)
+| where tolower(FileName) in (RMMs)
 ```
 And the following can be used in Microsoft Defender to find RMM file creations.
 ```
@@ -24,5 +24,5 @@ with(format="csv",ignoreFirstRecord=true))
 DeviceFileEvents
 | where Timestamp > ago(1h)
 | where ActionType == "FileCreated"
-| where FileName in~ (RMMs)
+| where tolower(FileName) in (RMMs)
 ```
