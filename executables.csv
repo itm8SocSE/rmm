@@ -150,11 +150,15 @@ Pcvisit,pcvisit-easysupport.exe
 Pocket Controller,pocketcontroller.exe
 Pocket Controller,pocketcloudservice.exe
 Pocket Controller,wysebrowser.exe
+PSExec,psexec.exe
+PSExec,psexec64.exe
+Putty,putty.exe
 QQ IM-remote assistance,qq.exe
 QQ IM-remote assistance,qqpcmgr.exe
 Quest KACE Agent,konea.exe
 Quick Assist,quickassist.exe
 Radmin,radmin.exe
+Rclone,rclone.exe
 rdp2tcp,tdp2tcp.exe
 rdp2tcp,rdp2tcp.py
 Remobo,remobo.exe
@@ -230,6 +234,8 @@ VNC,winvnc.exe
 WebRDP,webrdp.exe
 Weezo,weezo.exe
 Weezo,weezohttpd.exe
+WinSCP,winscp.exe
+WinSCP,winscp.com
 XEOX,xeox-agent_x64.exe
 Zoho Assist,za_connect.exe
 Zoho Assist,zaservice.exe
