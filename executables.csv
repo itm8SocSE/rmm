@@ -135,6 +135,7 @@ NoMachine,nomachine.exe
 NoMachine,nxd.exe
 OCS inventory,ocsinventory.exe
 OCS inventory,ocsservice.exe
+Oray SunLogin RemoteClient,SunloginClient.exe
 Parallels Access,prl_deskctl_agent.exe
 Parallels Access,prl_deskctl_wizard.exe
 Parallels Access,prl_pm_service.exe
