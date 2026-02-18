@@ -150,6 +150,7 @@ Pcnow,webexpcnow.exe
 Pcvisit,pcvisit.exe
 Pcvisit,pcvisit_client.exe
 Pcvisit,pcvisit-easysupport.exe
+PDQ Connect,pdq-connect-agent.exe
 Pocket Controller,pocketcontroller.exe
 Pocket Controller,pocketcloudservice.exe
 Pocket Controller,wysebrowser.exe
@@ -244,3 +245,4 @@ Zoho Assist,za_connect.exe
 Zoho Assist,zaservice.exe
 Zoho Assist,zohotray.exe
 Zoho Assist,join.exe
+
